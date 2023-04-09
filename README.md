@@ -1,2 +1,9 @@
-# sf_data_science
-SF homework
+# My_data_science_projects
+From the SF DS course [link]
+
+ ## Проекты
+ * [Проект 0. Игра: Угадай число]
+ * [Проект 1. ______](___)
+ * [Проект 2. ______](___)
+
+ ##  Ссылка на резюме
